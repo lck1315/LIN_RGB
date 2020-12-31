@@ -95,7 +95,7 @@ bool main_UpdatePWMPhases;
 bool main_Init()
 {  
 
-  // 안녕녕하dddsss
+
   return  (sys_Init()                             &&
            stdio_Init((sci_baud)(STDIO_SCI_BAUD)) &&   
            swt_Init()                             && // should be initilized quite early, since i.e. cctimer uses this module
