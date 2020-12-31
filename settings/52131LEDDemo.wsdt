@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>52131LEDDemo/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>234</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1062</ColumnWidth1><ColumnWidth2>283</ColumnWidth2><ColumnWidth3>70</ColumnWidth3></Build>
+      <TerminalIO/>
+    <Debug-Log><ColumnWidth0>21</ColumnWidth0><ColumnWidth1>1480</ColumnWidth1></Debug-Log><Find-in-Files><ColumnWidth0>531</ColumnWidth0><ColumnWidth1>75</ColumnWidth1><ColumnWidth2>910</ColumnWidth2></Find-in-Files></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-23865-29826</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>52131LEDDemo</ExpandedNode><ExpandedNode>52131LEDDemo/API</ExpandedNode><ExpandedNode>52131LEDDemo/LINDrv</ExpandedNode><ExpandedNode>52131LEDDemo/main.c</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-25789-30404</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-626-7397</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-28989-26353</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.c</Filename><XPos>0</XPos><YPos>74</YPos><SelStart>2449</SelStart><SelEnd>2459</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\api\wdog.c</Filename><XPos>0</XPos><YPos>7</YPos><SelStart>917</SelStart><SelEnd>917</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\mod_sci.c</Filename><XPos>0</XPos><YPos>25</YPos><SelStart>1315</SelStart><SelEnd>1315</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\api\inc\api.h</Filename><XPos>0</XPos><YPos>27</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\mod_sci.h</Filename><XPos>0</XPos><YPos>39</YPos><SelStart>1324</SelStart><SelEnd>1324</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\api\inc\adc_ctrl_irq.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\version.h</Filename><XPos>0</XPos><YPos>15</YPos><SelStart>1038</SelStart><SelEnd>1038</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\..\..\..\..\..\..\Program Files (x86)\IAR Systems\Embedded Workbench 6.0\430\src\lib\dlib\main.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>899</SelStart><SelEnd>899</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\mod_adc.c</Filename><XPos>0</XPos><YPos>79</YPos><SelStart>3383</SelStart><SelEnd>3385</SelEnd></Tab><ActiveTab>8</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-04771550><key>iaridepm.enu1</key></Toolbar-04771550></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>694</Bottom><Right>325</Right><x>-2</x><y>-2</y><xscreen>325</xscreen><yscreen>260</yscreen><sizeHorzCX>169271</sizeHorzCX><sizeHorzCY>260782</sizeHorzCY><sizeVertCX>170313</sizeVertCX><sizeVertCY>698094</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>258</Bottom><Right>1922</Right><x>-2</x><y>-2</y><xscreen>1924</xscreen><yscreen>260</yscreen><sizeHorzCX>1002083</sizeHorzCX><sizeHorzCY>260782</sizeHorzCY><sizeVertCX>169271</sizeVertCX><sizeVertCY>260782</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
