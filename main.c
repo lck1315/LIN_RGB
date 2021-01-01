@@ -94,9 +94,6 @@ bool main_UpdatePWMPhases;
 // Initialize all HW components. 
 bool main_Init()
 {  
-//jkjkjksdfsdfd
-
-
   return  (sys_Init()                             &&
            stdio_Init((sci_baud)(STDIO_SCI_BAUD)) &&   
            swt_Init()                             && // should be initilized quite early, since i.e. cctimer uses this module
